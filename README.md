@@ -80,7 +80,7 @@ void line(int x0, int y0, int x1, int y1) {
 ```
 References:  
 - [Algorithm Examples](http://rosettacode.org/wiki/Bitmap/Bresenham%27s_line_algorithm)
-- [Explanation](https://youtu.be/RGB-wlatStc)
+- [Algorithm Explanation](https://youtu.be/RGB-wlatStc)
 
 ## Hex Colors
 The colors provided in some of the maps for fdf are in Hexadecimal.  The below link can provide a very quick and rudimentary understanding of how hex-colors work.
@@ -88,6 +88,7 @@ The colors provided in some of the maps for fdf are in Hexadecimal.  The below l
 Reference:
 - [Hex Colors](https://www.mathsisfun.com/hexadecimal-decimal-colors.html)
 - [README](https://github.com/nilsonmolina/)
+- [Project Explanation](https://youtu.be/10P59aOgi68)
 
 ## Screenshots
 <img src="./images/42.png" />
