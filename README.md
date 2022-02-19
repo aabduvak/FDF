@@ -3,10 +3,6 @@
 </h1>
 
 <p align="center">
-	<b><i>FUNCTION TO GET LINE FROM FILE DESCRIPTOR</i></b><br>
-</p>
-
-<p align="center">
 	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abdulazizabduvakhobov/FDF?color=lightblue" />
 	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/abdulazizabduvakhobov/FDF?color=critical" />
 	<img alt="Code language count" src="https://img.shields.io/github/languages/count/abdulazizabduvakhobov/FDF?color=yellow" />
