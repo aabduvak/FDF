@@ -29,6 +29,9 @@
 - Algorithms & AI
 - Rigor
 
+#### My grade
+<img src="./images/grade.png" width="150" height="150"/>
+
 ## MiniLibx
 MiniLibx is an in house graphics library for students at 42 to cry and curse over.  The documentation is pretty limited, the provided library is out of date, but that is all part of the learning process.
 
