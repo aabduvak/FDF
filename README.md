@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/abdulazizabduvakhobov/FDF?color=lightblue" />
-	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/abdulazizabduvakhobov/FDF?color=critical" />
-	<img alt="Code language count" src="https://img.shields.io/github/languages/count/abdulazizabduvakhobov/FDF?color=yellow" />
-	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/abdulazizabduvakhobov/FDF?color=blue" />
-	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/abdulazizabduvakhobov/FDF?color=green" />
+	<img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/aabduvak/FDF?color=lightblue" />
+	<img alt="Number of lines of code" src="https://img.shields.io/tokei/lines/github/aabduvak/FDF?color=critical" />
+	<img alt="Code language count" src="https://img.shields.io/github/languages/count/aabduvak/FDF?color=yellow" />
+	<img alt="GitHub top language" src="https://img.shields.io/github/languages/top/aabduvak/FDF?color=blue" />
+	<img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/aabduvak/FDF?color=green" />
 </p>
 
 <h3 align="center">
